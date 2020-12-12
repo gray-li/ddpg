@@ -42,6 +42,4 @@ The environment is considered solved when the agent gets an average score of +30
 1. Activate your python environment.
 2. To train the agent, simply run the below code in your terminal:\
    `python train.py`
-3. Run the code below to watch your trained agent (only for 100 steps):\
-   `python test.py`
  
